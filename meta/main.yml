@@ -1,0 +1,16 @@
+---
+galaxy_info:
+  role_name: wireshark
+  author: Garrett Hyde
+  description: Install Wireshark on Fedora
+  issue_tracker_url: https://github.com/ghyde/ansible-role-wireshark/issues
+  license: MIT
+  min_ansible_version: 2.5
+  platforms:
+  - name: Fedora
+    versions:
+    - 30
+  galaxy_tags:
+  - fedora
+  - wireshark
+...
